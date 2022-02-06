@@ -1,1 +1,1 @@
-Fetch your Medium posts everyday at midnight and update your website.
+Fetch your Medium posts everyday at midnight to update your website.
